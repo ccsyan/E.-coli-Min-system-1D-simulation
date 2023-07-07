@@ -10,11 +10,11 @@ Randomly produced 4 rate constants to have all positive particle number and pass
 # Instructions
 
 1. run c1.Min.LSA.random.para.py to get one parameter set.
-2. with the parameter set produced in the last step, get timecourse simulation by running c2.get.timecourse.py
-3. c3.kymograph.py produces a figure
-4. c4.lamba.py produce a figure as lambda value vs cell length
-5. c5.Iratio.py produce a figure as Iratio vs cell length
-6. c6.period.py produce a figure as oscillation preiod vs cell length
+2. with the parameter set produced in the last step, get the time and position data by running c2.get.timecourse.py. Simulation time is 80 seconds.
+3. c3.kymograph.py produces a figure with membrane MinD as the target, different cell lengths are 1.6, 1.8, ..., 2.3 micrometer. Time in the plot is from 40 to 80 seconds.
+4. c4.lamba.py produce a figure as lambda value vs cell length. This program produce better fitting result either uni-phase or bi-phasic fitting.
+5. c5.Iratio.py produce a figure as Iratio vs cell length.
+6. c6.period.py produce a figure as oscillation preiod vs cell length.
 
 # References
 
