@@ -13,3 +13,12 @@ Randomly produced 4 rate constants to have all positive particle number and pass
 4. c4.lamba.py produce a figure as lambda value vs cell length
 5. c5.Iratio.py produce a figure as Iratio vs cell length
 6. c6.period.py produce a figure as oscillation preiod vs cell length
+
+# References
+
+1.	editing
+
+# Feedback
+
+Made changes to the layout templates or some other part of the code? Fork this repository, make your changes, and send a pull request.
+Do these codes help on your research? Please cite as the follows: Growth-dependent concentration gradient of the ....C Parada1, CCS Yan, CY Hung, IP Tu, CP Hsu, YL Shih.
