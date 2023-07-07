@@ -1,4 +1,6 @@
 # E.-coli-Min-system-1D-simulation
+[![DOI](https://zenodo.org/badge/660496460.svg)](https://zenodo.org/badge/latestdoi/660496460)
+
 Randomly produced 4 rate constants to have all positive particle number and pass linear stability analysis and have Min oscillation in one dimensional lattice.
 
 # Description
