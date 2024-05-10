@@ -10,12 +10,9 @@ Four python 3.9 scripts are available in this repository.
 # Instructions
 
 1. run c1.Min.LSA.random.para.py to get one parameter set.
-2. with the parameter set produced in the last step, get the time and position data by running c2.get.timecourse.py. Simulation time is 80 seconds.
-3. c3.kymograph.py produces a figure with membrane MinD as the target, different cell lengths are 1.6, 1.8, ..., 2.3 micrometer. Time in the plot is from 40 to 80 seconds.
-4. c4.
-#lamba.py produce a figure as lambda value vs cell length. This program produce better fitting result either uni-phase or bi-phasic fitting.
-#c5.Iratio.py produce a figure as Iratio vs cell length.
-#c6.period.py produce a figure as oscillation preiod vs cell length.
+2. with the parameter set produced in the last step, get the time and position data by running c2.get.timecourse.py. Simulation time is 140 seconds.
+3. c3.kymograph.py produces a figure with membrane MinD as the target, different cell lengths are 1.6, 1.8, ..., 2.3 micrometer. Time in the plot is from 40 to 140 seconds.
+4. c4.analysis.py produce a figure with three panels as the left panel is periods vs cell length, the middle panel as lambda value vs cell length and bi-phasic linear fitting. The right panel is showing the Iratio vs cell length.
 
 # References
 
