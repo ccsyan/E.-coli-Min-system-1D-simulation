@@ -1,11 +1,11 @@
 # E.-coli-Min-system-1D-simulation
 [![DOI](https://zenodo.org/badge/660496460.svg)](https://zenodo.org/badge/latestdoi/660496460)
 
-Randomly produced 4 rate constants to have all positive particle number and pass linear stability analysis and have Min oscillation in one dimensional lattice.
+Randomly produced 4 rate constants to have all positive particle number and pass linear stability analysis and have Min oscillation in one dimensional lattice. Additionally, adding folders for producing Figure 3 in the paper.
 
 # Description
 
-Four python 3.9 scripts are available in this repository.
+Four python 3.9 scripts are available in this repository. Scripts producing Figure 3 are *.m. 
 
 # Instructions
 
@@ -29,3 +29,4 @@ Four python 3.9 scripts are available in this repository.
 
 Made changes to the layout templates or some other part of the code? Fork this repository, make your changes, and send a pull request.
 Do these codes help on your research? Please cite as the follows: Growth-dependent concentration gradient of the ....C Parada, CCS Yan, CY Hung, IP Tu, CP Hsu, YL Shih.
+https://doi.org/10.1101/2023.08.01.551406
